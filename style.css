@@ -1,0 +1,30 @@
+body {
+ background-color:aquamarine;
+ text-align: center;
+ font-family: 'Courier New', Courier, monospace;
+}
+
+.list0, .list, .list3, .list4 {
+ list-style-type: none;
+ display: inline;
+ font-family:Arial, Helvetica, sans-serif;
+ }
+
+ .list2, .list5 {
+  font-family:Arial, Helvetica, sans-serif;
+  list-style-position: inside
+ }
+
+ .ol, .ol-li{
+  margin-inline: 30%;
+  font-family:Arial, Helvetica, sans-serif;
+ }
+
+ .photo {
+  width: 300px;
+  height: 300px;
+ }
+
+ .p {
+  font-family:Arial, Helvetica, sans-serif;
+ }
